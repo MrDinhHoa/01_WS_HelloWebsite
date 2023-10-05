@@ -2,6 +2,8 @@ body {
     background-color: white;
     text-align:center;
     font-family: sans-serif;
+    overflow-x:hidden;
+
 }
 h2{
     font-size: 2rem;
@@ -10,4 +12,8 @@ h2{
 h4{
     font-size: 1.5rem;
     margin-bottom: 1rem;
+}
+svg{
+    fill:#33CCFF;
+    padding-bottom: 1rem;
 }
