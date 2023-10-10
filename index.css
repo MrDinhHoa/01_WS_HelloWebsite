@@ -41,3 +41,12 @@ img{
    border-radius: 100%;
    background-color:#33CCFF;
  }
+ .card-header, .card-footer{
+    background-color: #33CCFF;
+ }
+.card{
+    transition: box-shadow 0.5s;
+}
+.card:hover{
+    box-shadow: 5px 0px 40px rgba(0,0,2, .2);
+}
